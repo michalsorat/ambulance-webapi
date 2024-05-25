@@ -2,7 +2,6 @@ package ambulance_wl
 
 import (
   "net/http"
-
   "github.com/gin-gonic/gin"
   "github.com/google/uuid"
   "slices"
